@@ -1,9 +1,9 @@
-# Deep-Learning-Project
+# Deep-Learning-Projects
 This repository consists of all my Deep Learning Project
 
 
 
-# Deep Learning Projects
+
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Framework](https://img.shields.io/badge/Framework-Keras/TensorFlow/Pytorch-orange.svg)
 
 <img src="ReadMe_Files/7cd53d36d121d839da9600ca055b01db.gif"  >
